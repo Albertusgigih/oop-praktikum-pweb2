@@ -1,0 +1,13 @@
+{
+    "name": "asus/oop-praktikum-1",
+    "description": "Praktikum Kesekian Pemrograman Web Lanjutan",
+    "require": {
+        "php": "^7.4.29"
+    },
+    "authors": [
+        {
+            "name": "Albertus Gigih",
+            "email": "albertgitama@gmail.com"
+        }
+    ]
+}
